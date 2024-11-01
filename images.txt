@@ -1,3 +1,4 @@
+xhongc/music_tag_web
 deluan/navidrome
 svenstaro/miniserve
 flaresolverr/flaresolverr
