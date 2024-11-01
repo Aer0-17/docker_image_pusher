@@ -1,3 +1,4 @@
+wbsu2003/lx-music-sync-server
 xhofe/alist
 xiaoyaliu/alist
 messense/aliyundrive-webdav
