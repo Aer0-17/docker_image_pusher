@@ -1,3 +1,4 @@
+snowdreamtech/frps
 linuxserver/webtop:ubuntu-kde
 linuxserver/webtop
 diygod/rsshub
