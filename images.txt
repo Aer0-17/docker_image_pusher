@@ -1,3 +1,4 @@
+nginx
 snowdreamtech/frpc
 snowdreamtech/frps
 linuxserver/webtop:ubuntu-kde
