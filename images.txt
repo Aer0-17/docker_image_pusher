@@ -1,3 +1,4 @@
+gitlab/gitlab-runner
 gethomepage/homepage
 nginx
 snowdreamtech/frpc
